@@ -6,9 +6,9 @@ Dataset: Human Activity Recognition Using Smartphones
 
 Files
 
-CodeBook.md a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data
+'CodeBook.md' a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data
 
-run_analysis.R contains all 5 steps, which were described in Peer-graded Assignment:
+'run_analysis.R' contains all 5 steps, which were described in Peer-graded Assignment:
 
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.

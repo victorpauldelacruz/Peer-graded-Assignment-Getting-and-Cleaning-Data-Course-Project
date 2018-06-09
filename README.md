@@ -1,10 +1,14 @@
 # Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
 
-This repository is a Ivan Ursul assignment for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
+This repository for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 Dataset: Human Activity Recognition Using Smartphones
 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
 Files
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 'run_analysis.R' contains all 5 steps, which were described in Peer-graded Assignment:
 
